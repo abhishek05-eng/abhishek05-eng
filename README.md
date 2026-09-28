@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Abhishek Sabarad 👋</h1>
-<h3 align="center">Software Engineer | Computer Science Engineering Graduate | Bengaluru, India</h3>
+<h3 align="center">Software Engineer | Developer | QA / Test Automation Engineer</h3>
+<p align="center">Bengaluru, Karnataka, India</p>
 
 <p align="center">
   <a href="https://abhishek-sabarad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -12,48 +13,69 @@
 
 ## 👨‍💻 About Me
 
-Computer Science Engineering graduate (2026) from New Horizon College of Engineering, Bengaluru. I build REST APIs, AI-powered applications, and user interfaces, and I have hands-on experience across the software development lifecycle: requirements analysis, design, coding, testing, and debugging. I'm looking for an entry-level Software Engineer role.
+Computer Science Engineering graduate (2026, CGPA 8.40/10, no backlogs) with a skill set spanning software development, quality assurance, and applied AI. I build REST APIs and full-stack applications in Python and Java, and I'm comfortable across the full SDLC: requirements review, coding, debugging, test case design, and defect tracking. I've built a Generative AI assistant with the OpenAI GPT API and RAG, and deployed a Flask REST API using Docker and Kubernetes. I'm suited to development, QA, and hybrid SDET roles.
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,mysql,sqlite,flask,django,firebase,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,sqlite,oracle,flask,django,fastapi" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,docker,kubernetes,azure,firebase,git,github,linux,arduino" />
 </p>
 
-**Also:** scikit-learn, REST API design, OOP, Unit Testing, NodeMCU, Canva
+| Area | Skills |
+|---|---|
+| **Languages** | Python, Java, C++ (basic), SQL, JavaScript, HTML/CSS |
+| **Development** | REST API Design, Flask, Django, FastAPI (basic), OOP, Design Patterns, Microservices Fundamentals, SDLC |
+| **Databases** | MySQL, SQLite, Oracle (SQL\*Plus, PL/SQL), Schema Design, Data Validation |
+| **Generative AI** | OpenAI GPT API, Prompt Engineering, RAG (Chroma), scikit-learn |
+| **Cloud & DevOps** | Docker, Kubernetes (Minikube), Azure DevOps, CI/CD, IBM Cloud, Firebase, Git & GitHub |
+
+## 🧪 Testing & QA
+
+| Area | Skills |
+|---|---|
+| **Manual Testing** | Functional, Regression & Exploratory Testing, Test Case Design & Execution, Requirements Review |
+| **API Testing** | Postman, RestAssured |
+| **Test Automation** | Selenium, Selenium WebDriver, JUnit, Test-Driven Development, Power BI (UI Automation & Reporting) |
+| **Defect Management** | Defect Tracking & Documentation, Jira (basic), Test Reports |
+| **Process** | Agile/Scrum, Cross-Functional Collaboration |
 
 ## 💼 Experience
 
-**Artificial Intelligence Intern — INTERNZLEARN (Remote)**
-- Built a healthcare chatbot in Python using scikit-learn (Decision Tree and SVM) trained on 4,920 medical records, achieving 100% test accuracy
-- Designed a Flask REST API with 4 endpoints (`/predict`, `/suggest`, `/followup`, `/health`)
-- Supported testing and debugging, including edge cases, error handling, and session logging
+**Artificial Intelligence Intern — InternzLearn (Remote)** | Apr 2026 · 4 months
+- Developed a Flask REST API with 4 endpoints, and separately reviewed requirements and prepared structured test cases to validate correctness across edge cases
+- Built an end-to-end ML pipeline with scikit-learn, achieving 100% test accuracy across 4,920 records through functional and regression testing
+- Conducted API testing with Postman, documented defects clearly, and worked with developers to resolve them
+
+**Cybersecurity Virtual Intern — Cisco Networking Academy (EduSkills)** | Jun – Aug 2026
+- Built working knowledge of network security, cyberattack vectors, and defensive security practices through coursework and hands-on virtual labs
 
 ## 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Netflix-Style Portfolio](https://github.com/abhishek05-eng/netflix-portfolio)** | My personal portfolio website, deployed on Vercel | React, Vite, Tailwind, GSAP |
-| **[OpenCart Manual Testing](https://github.com/abhishek05-eng/OpenCart-Manual-Testing)** | Test cases, scenarios, and bug-report template for OpenCart | Manual Testing, QA |
-| **Healthcare Chatbot** | AI disease prediction system with CLI and web interfaces | Python, scikit-learn, Flask, MySQL |
-| **Exam Preparation Web App** | Full-stack app with quizzes, results, and progress tracking | Python, Flask, MySQL |
-| **Smart Agriculture System** | Multi-sensor IoT system with a live monitoring dashboard | NodeMCU, Arduino, Firebase, Blynk |
-| **Touring Application** | Google Maps API and cloud sync with user authentication | Java/Python, Google Maps API |
+| **[OpenCart Manual Testing](https://github.com/abhishek05-eng/OpenCart-Manual-Testing)** | Test cases, scenarios, expected results, and a bug-report template for OpenCart | Manual Testing, QA |
+| **Healthcare Chatbot** | AI disease prediction system, built as developer and independently tested as QA, validating MySQL data integrity and model accuracy | Python, scikit-learn, Flask, MySQL |
+| **Containerized REST API** | Flask REST API containerized with Docker and deployed to a local Kubernetes cluster, verified with kubectl | Docker, Kubernetes, Flask |
+| **GenAI Conversational Assistant** | Conversational assistant using retrieval-augmented generation | Python, OpenAI GPT API, Chroma |
+| **Smart Agriculture System** | Sensor-to-cloud IoT pipeline with a peer-reviewed research paper | NodeMCU, Arduino, Firebase, Blynk |
+| **[Netflix-Style Portfolio](https://github.com/abhishek05-eng/netflix-portfolio)** | Personal portfolio website, deployed on Vercel | React, Vite, Tailwind, GSAP |
 
 ## 🎓 Education
 
 - **B.E. in Computer Science & Engineering**, New Horizon College of Engineering, Bengaluru (2026), CGPA 8.40 / 10
-- **Diploma in Computer Science**, MES R N Shetty Polytechnic, Sirsi, 84%
+- **Diploma in Computer Science**, MES R N Shetty Polytechnic, Sirsi (2023), 84%
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
-- Published a peer-reviewed research paper: *"Smart Agriculture System for Greenhouse Management"*
-- Pitched and demonstrated project solutions to judges at the Flipkart Grid Hackathon
-- Honored for academic excellence in Diploma studies
-- Certified: AI & Uses (Be10x), Journey to Cloud (IBM SkillsBuild)
+- IBM Generative AI Certificate
+- Journey to Cloud (IBM SkillsBuild)
+- AI & Uses (Be10x)
+- Published peer-reviewed paper: *"Smart Agriculture System for Greenhouse Management"*
+- Flipkart Grid Hackathon participant
+- Honored for top Diploma academic performance (84%)
 
 ## 📊 GitHub Stats
 
