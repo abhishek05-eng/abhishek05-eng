@@ -18,19 +18,20 @@ Computer Science Engineering graduate (2026, CGPA 8.40/10, no backlogs) with a s
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,sqlite,oracle,flask,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,oracle,flask,django" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,docker,kubernetes,azure,firebase,git,github,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,docker,kubernetes,azure,firebase,git,github,arduino" />
 </p>
 
 | Area | Skills |
 |---|---|
-| **Languages** | Python, Java, C++ (basic), SQL, JavaScript, HTML/CSS |
-| **Development** | REST API Design, Flask, Django, FastAPI (basic), OOP, Design Patterns, Microservices Fundamentals, SDLC |
+| **Languages** | Python, Java, SQL, JavaScript, HTML/CSS |
+| **Development** | REST API Design, Flask, Django, OOP, SDLC |
 | **Databases** | MySQL, SQLite, Oracle (SQL\*Plus, PL/SQL), Schema Design, Data Validation |
 | **Generative AI** | OpenAI GPT API, Prompt Engineering, RAG (Chroma), scikit-learn |
 | **Cloud & DevOps** | Docker, Kubernetes (Minikube), Azure DevOps, CI/CD, IBM Cloud, Firebase, Git & GitHub |
+| **IoT & Embedded** | NodeMCU, Arduino, Blynk |
 
 ## 🧪 Testing & QA
 
@@ -39,7 +40,7 @@ Computer Science Engineering graduate (2026, CGPA 8.40/10, no backlogs) with a s
 | **Manual Testing** | Functional, Regression & Exploratory Testing, Test Case Design & Execution, Requirements Review |
 | **API Testing** | Postman, RestAssured |
 | **Test Automation** | Selenium, Selenium WebDriver, JUnit, Test-Driven Development, Power BI (UI Automation & Reporting) |
-| **Defect Management** | Defect Tracking & Documentation, Jira (basic), Test Reports |
+| **Defect Management** | Defect Tracking & Documentation, Test Reports |
 | **Process** | Agile/Scrum, Cross-Functional Collaboration |
 
 ## 💼 Experience
