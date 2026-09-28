@@ -67,7 +67,7 @@ Computer Science Engineering graduate (2026, CGPA 8.40/10, no backlogs) with a s
 ## 🎓 Education
 
 - **B.E. in Computer Science & Engineering**, New Horizon College of Engineering, Bengaluru (2026), CGPA 8.40 / 10
-- **Diploma in Computer Science**, MES R N Shetty Polytechnic, Sirsi (2023), 84%
+- **Diploma in Computer Science**, MES R N Shetty Polytechnic, Sirsi (2023), 8.9CGPA
 
 ## 🏆 Certifications & Achievements
 
